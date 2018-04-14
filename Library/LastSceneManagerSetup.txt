@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/sandy/Desktop/roll/Assets/0316.unity
+  isLoaded: 1
+  isActive: 1
